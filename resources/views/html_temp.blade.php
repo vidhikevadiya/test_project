@@ -224,6 +224,24 @@
         </ul>
     </nav>
 
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Build Something Amazing</h1>
+
+            <p>
+                Welcome to our website. We create simple,
+                beautiful and powerful digital experiences.
+            </p>
+
+            <a href="#services" class="btn">
+                Get Started
+            </a>
+        </div>
+    </section>
+
+
     <!-- Services Section -->
     <section class="services" id="services">
 
